@@ -1,5 +1,9 @@
 <h2>Project</h2>
-    An application used to stream Windows desktop or game using OBS program. App built with React, Redux, Redux-Form, React-Router.
+    An application used to stream Windows desktop or game using OBS program. App built: <br>
+    &#10687; React, <br>
+    &#10687; Redux, <br>
+    &#10687; Redux-Form, <br>
+    &#10687; React-Router.
 
 
 <h2>Installation and Setup Instructions</h2>
