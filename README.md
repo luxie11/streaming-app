@@ -1,9 +1,9 @@
 <h2>Project</h2>
     An application used to stream Windows desktop or game using OBS program. App built: <br>
-    &#10687; React, <br>
-    &#10687; Redux, <br>
-    &#10687; Redux-Form, <br>
-    &#10687; React-Router.
+        &#10687; React, <br>
+        &#10687; Redux, <br>
+        &#10687; Redux-Form, <br>
+        &#10687; React-Router.
 
 
 <h2>Installation and Setup Instructions</h2>
@@ -29,11 +29,11 @@
 <b>To Visit App:</b>
 
   <b>To create/edit/delete stream you have to login with "Google" account.</b>
-
-  Home page -> localhost:3000/
-  Create stream -> localhost:3000/streams/new
-  Edit stream -> localhost:3000/streams/edit/:id
-  Delete stream -> localhost:3000/streams/delete/:id
-  Show stream -> localhost:3000/streams/:id
+  <br>
+  Home page -> localhost:3000/<br>
+  Create stream -> localhost:3000/streams/new<br>
+  Edit stream -> localhost:3000/streams/edit/:id<br>
+  Delete stream -> localhost:3000/streams/delete/:id<br>
+  Show stream -> localhost:3000/streams/:id<br>
   
   
