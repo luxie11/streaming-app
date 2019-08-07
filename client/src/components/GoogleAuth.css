@@ -1,0 +1,31 @@
+.outline > i, .outline > label{
+    color:white !important;
+    cursor:pointer;
+}
+
+.center-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 20px;
+}
+.outline{
+    color: white !important;
+    border: 2px solid white !important;
+    font-size: 18px !important;
+    box-shadow: none !important;
+    border-radius: 100px !important;
+}
+
+/* #2c5d8d */
+.ui.basic.green.button:hover, .ui.basic.green.buttons .button:hover,
+.ui.basic.red.button:hover, .ui.basic.red.buttons .button:hover{
+    background-color: #5490ca !important;
+    color:white !important;
+    box-shadow: 0 0 0 1px #5490ca inset !important;
+}
+
+.ui.basic.green.button:active, .ui.basic.green.buttons .button:active,
+.ui.basic.red.button:focus, .ui.basic.red.buttons .button:focus{
+    background-color: #3269a0 !important;
+}
